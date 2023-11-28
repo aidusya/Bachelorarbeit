@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719780403071",
+    "firebase_url": "https://listipede-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "listipede",
+    "storage_bucket": "listipede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719780403071:android:9a19c72fce3810de3f6c4a",
+        "android_client_info": {
+          "package_name": "com.example.listipede"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719780403071-9nssa88eulg1oopqufsg91oc2f4vuooq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmkLhgrZvKwCSjmlO4SWKZAtyJik7hOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719780403071-9nssa88eulg1oopqufsg91oc2f4vuooq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719780403071-qms7uirgj9q1019ej9auc1erv1d4223m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.listipede"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

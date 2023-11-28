@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>719780403071-qms7uirgj9q1019ej9auc1erv1d4223m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.719780403071-qms7uirgj9q1019ej9auc1erv1d4223m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyiVO2O9Xc_cRgg0Owqv-qpe45prAOhbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719780403071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.listipede</string>
+	<key>PROJECT_ID</key>
+	<string>listipede</string>
+	<key>STORAGE_BUCKET</key>
+	<string>listipede.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719780403071:ios:d9cc0026e3ad6b573f6c4a</string>
+	<key>DATABASE_URL</key>
+	<string>https://listipede-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
